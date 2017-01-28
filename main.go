@@ -6,6 +6,6 @@ import (
 
 var x = 11
 
-def main() {
+func main() {
   fmt.Println("hello", x)
 }
