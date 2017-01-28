@@ -4,6 +4,8 @@ import (
   "fmt"
 )
 
+var x = 11
+
 def main() {
-  fmt.Println("hello")
+  fmt.Println("hello", x)
 }
